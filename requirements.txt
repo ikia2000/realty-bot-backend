@@ -1,0 +1,8 @@
+flask-cors
+flask
+openai>=1.0.0
+python-dotenv
+gspread
+oauth2client
+python-docx
+gunicorn
